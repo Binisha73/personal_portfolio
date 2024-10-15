@@ -94,5 +94,8 @@ a:hover{
     
 
 }
+.about-section a:hover{
+    box-shadow: inset 0-14px 0 #fdd912;
+}
 
 /* END ABOUT SECTION */
